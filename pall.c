@@ -5,7 +5,7 @@
  * @counter: no used
  * Return: no return
 */
-void pull_fnc(stack_t **head, unsigned int counter)
+void pull_fnct(stack_t **head, unsigned int counter)
 {
 	stack_t *he;
 	(void)counter;
